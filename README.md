@@ -67,15 +67,6 @@ To test the model on unseen images, run the notebook and evaluate performance us
 After training, the model achieves **high accuracy** in distinguishing between wolves and huskies.
 
 ---
-
-## 📸 Sample Predictions
-
-| 🐺 Wolf Image | 🐶 Husky Image |
-| ------------- | -------------- |
-| ✅ Correct     | ❌ Incorrect    |
-
----
-
 ## 🤖 Future Improvements
 
 - Implement CNN (Convolutional Neural Networks) for better accuracy.
